@@ -15,12 +15,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//php/php-original.svg" width="40" height="40" />
  </p>
-<details>
-<summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=E-Sahra-&theme=radical" >
-</details>
 
 <details>
-<summary>:bulb:  Most Used Languages</summary>
+<summary>:bulb:  Github'ımda en çok kullandığım diller</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-Sahra-B&layout=compact" >
 </details>
