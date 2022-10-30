@@ -1,7 +1,8 @@
-### Github sayfama Hoşgeldiniz :blush: 😄
-
+### Github sayfama Hoşgeldiniz  😄
 <br />
+### Ben Esma Sahra Balcı :blush:
 <br />
+### Junior Software Developer
 
 #### Program Dilleri 
 <p align="left">
@@ -14,17 +15,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//php/php-original.svg" width="40" height="40" />
  </p>
-<!--
-**E-Sahra-B/E-Sahra-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>:bulb: Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=E-Sahra-&theme=radical" >
+</details>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>:bulb:  Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-Sahra-B&layout=compact" >
+</details>
