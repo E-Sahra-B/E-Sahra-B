@@ -1,11 +1,11 @@
-# Github sayfama Hoşgeldiniz  😄
+<h1 align="center">Github sayfama Hoşgeldiniz  😄</h1>
 
-## Ben Esma Sahra Balcı :blush:
+<h2 align="center">Ben Esma Sahra Balcı :blush:</h2>
 
-### Junior Software Developer
+<h3 align="center">Junior Software Developer</h3>
 
-#### Program Dilleri 
-<p align="left">
+<h4 align="center">Program Dilleri </h4>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" />
