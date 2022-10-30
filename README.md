@@ -1,7 +1,7 @@
-### Github sayfama Hoşgeldiniz  😄
-<br />
-### Ben Esma Sahra Balcı :blush:
-<br />
+# Github sayfama Hoşgeldiniz  😄
+
+## Ben Esma Sahra Balcı :blush:
+
 ### Junior Software Developer
 
 #### Program Dilleri 
