@@ -47,9 +47,9 @@
   </p>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/esmasahrabalci" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" alt="esmasahrabalci" height="35" width="143" /></a>
+<h3 align="left" style="margin-left:12px;">Connect with me:</h3>
+<p align="left" style="margin-left:12px;">
+  <a href="https://linkedin.com/in/esmasahrabalci" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" alt="esmasahrabalci" height="35" width="143" /></a>
 </p>
 
 <picture>
