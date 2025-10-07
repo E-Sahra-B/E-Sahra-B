@@ -49,7 +49,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/esmasahrabalci" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="esmasahrabalci" height="40" width="60" /></a>
+<a href="https://linkedin.com/in/esmasahrabalci" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" alt="esmasahrabalci" height="40" width="164" /></a>
 </p>
 
 <picture>
