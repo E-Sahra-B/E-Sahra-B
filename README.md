@@ -1,6 +1,6 @@
-<h1 align="center">Github sayfama Hoşgeldiniz  😄</h1>
+<h1 align="center">Welcome to my GitHub page 😄</h1>
 
-<h2 align="center">Ben Esma Sahra Balcı :blush:</h2>
+<h2 align="center">I'm Esma Sahra Balcı :blush:</h2>
 
 <h3 align="center">PHP Developer</h3>
 
@@ -45,6 +45,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
     <img src="https://www.cursor.so/favicon.ico" alt="Cursor" width="40" height="40"/>
   </p>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/esmasahrabalci" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="esmasahrabalci" height="30" width="40" /></a>
 </p>
 
 <picture>
